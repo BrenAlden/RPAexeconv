@@ -1,0 +1,5 @@
+keyring
+pandas
+openpyxl
+selenium
+pywin32

@@ -1,0 +1,3 @@
+# Runtime dependency untuk RPA EXE Converter.
+# Butuh Python 3.10+ dan Windows.
+pyinstaller>=6.0
